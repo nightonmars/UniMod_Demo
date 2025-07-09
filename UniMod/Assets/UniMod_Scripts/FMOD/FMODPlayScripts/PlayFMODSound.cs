@@ -20,13 +20,16 @@ public class PlayFMODSound : MonoBehaviour
 
     public FMODParameter[] parameters; // Arrayed parameters for FMOD sound parameter
 
-    void Start()
+    void Awake()
     {
         if (gameObjectPosition == null)
         {
             gameObjectPosition = gameObject; // Fallback to the attached GameObject
         }
-
+    }
+    
+    void Start()
+    {
         if (playOnStart)
         {
             PlaySoundAttached();

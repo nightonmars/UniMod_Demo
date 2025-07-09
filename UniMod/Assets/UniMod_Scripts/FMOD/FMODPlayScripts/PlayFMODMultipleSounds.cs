@@ -31,15 +31,16 @@ public class PlayFMODMultipleSounds : MonoBehaviour
         get => GetParameterValue(index, parameterName);
         set => SetParameter(index, parameterName, value);
     }
-    
+
+    void Awake()
+    {
+        if (gameObjectPosition == null)
+        {
+            gameObjectPosition = gameObject; // Fallback to the attached GameObject. 
+        }
+    }
     void Start()
     {
-        
-        if (gameObjectPosition == null)
-           {
-               gameObjectPosition = gameObject; // Fallback to the attached GameObject
-           }
-        
         if (playOnStart && sounds.Count > 0)
         {
             PlaySoundAttached(0); // Play the first sound in the list as an example
