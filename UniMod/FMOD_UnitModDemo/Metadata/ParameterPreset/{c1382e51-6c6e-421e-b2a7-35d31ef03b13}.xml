@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c1382e51-6c6e-421e-b2a7-35d31ef03b13}">
+		<property name="name">
+			<value>BeltFilter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4c3b7594-96aa-4284-8c5c-464118686ce7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{89cdfd4c-506c-4058-954c-3fe273aed571}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{89cdfd4c-506c-4058-954c-3fe273aed571}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{d93d8cdb-6f84-4365-9c2d-ac9e9a6d4d51}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{d93d8cdb-6f84-4365-9c2d-ac9e9a6d4d51}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>2.2000000476837158</value>
+		</property>
+		<property name="asymmetric">
+			<value>true</value>
+		</property>
+	</object>
+</objects>
