@@ -1,8 +1,5 @@
 <p align="center">
-![UniMod logo small](https://github.com/user-attachments/assets/14de8223-caf6-4336-89c3-41bcafd1e4d3)
-
-
-
+https://github.com/user-attachments/assets/14de8223-caf6-4336-89c3-41bcafd1e4d3
 </p>
 
 
