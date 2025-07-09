@@ -1,9 +1,10 @@
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/0565ce4d-7ede-4895-9f6c-e6ee00afc143)" alt="UniMod's custom image"/>
+  <img src="![UniMod logo small](https://github.com/user-attachments/assets/5fbd6217-4cbc-4897-8858-fab91b673113)" alt="UniMod's custom image"/>
 </p>
 
-![UniMod logo small]()
+
+
 
 Built for FMOD v 2.03(**). 
 The aim of UniMod is to make it easier for sound production and game development students to collaborate on projects by decoupling the programming and sound design and music composition aspects of the game audio.
