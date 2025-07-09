@@ -1,7 +1,10 @@
+
+
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/2847f38f-54af-4752-9b49-3f9d0018ba40)" />
+</p>
+
 Built for FMOD v 2.03(**). 
-
-![UniMod logo small](https://github.com/user-attachments/assets/2847f38f-54af-4752-9b49-3f9d0018ba40)
-
 The aim of UniMod is to make it easier for sound production and game development students to collaborate on projects by decoupling the programming and sound design and music composition aspects of the game audio.
 
 It uses scriptable objects to create sound containers that the developer can add to the scene and create logic for which the sound or music composer can then populate. The Play FMod sound can be used to trigger single fmod events and the Play FMOD multiple sound can be used when more than one sound is needed, such as for a player character. Both scripts integrate the most common FMOD trigger types, including PlayOneshot with parameter. Each script can apply multiple parameters from the FMOD event. 
