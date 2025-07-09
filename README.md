@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="![UniMod logo small](https://github.com/user-attachments/assets/5fbd6217-4cbc-4897-8858-fab91b673113)" alt="UniMod's custom image"/>
-</p>
+
+UniMod logo small](https://github.com/user-attachments/assets/5fbd6217-4cbc-4897-8858-fab91b673113)
+
 
 
 
