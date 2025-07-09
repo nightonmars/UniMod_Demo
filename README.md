@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/2847f38f-54af-4752-9b49-3f9d0018ba40)" />
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://github.com/user-attachments/assets/2847f38f-54af-4752-9b49-3f9d0018ba40)" alt="UniMod's custom image"/>
 </p>
 
 Built for FMOD v 2.03(**). 
