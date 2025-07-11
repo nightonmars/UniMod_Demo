@@ -32,3 +32,4 @@ https://github.com/user-attachments/assets/fc7da060-132f-4194-a1fa-1969e33c03ec
 
 
 ** If you're running an earlier version (FMOD 2.02) you'll get an error because of "RuntimeManager.AttachInstanceToGameObject(eventInstance, gameObjectPosition)" where a game object is not allowed to be used as the argument is set to Transform. Changing this only means that you can't use a different gameobject for position and the Play FMOD script will use the gameobject it's attached to (as is the default setting). 
+Contact: nomnightonmars@gmail.com
